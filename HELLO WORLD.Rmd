@@ -1,0 +1,11 @@
+---
+title: "HELLO WORLD"
+author: "Duban Stiben Acevedo Alzate"
+date: "24/6/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+## Este es un archivo de reducción 
+
